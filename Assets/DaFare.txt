@@ -1,0 +1,18 @@
+--------ottimizza il codice trasformando gli int in short
+
+fai il line renderer tra i blocchi  <- IMPOSSIBILE
+
+
+
+
+
+
+
+
+
+
+
+
+setIstruzioni ottimizzato ---------{int->short perchè nessun caso supera il Sistem.Int16}
+BloccoComando			  ---------{int->short perchè nessun caso supera il Sistem.Int16}
+proprieta varie dei bot inoptimizzabili perchè float
